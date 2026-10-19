@@ -1,0 +1,11 @@
+Model Information:
+* title:	Machine Manual (Trinket) - Dandy's World
+* source:	https://sketchfab.com/3d-models/machine-manual-trinket-dandys-world-e8f8b079e55f464f8fcb039da7d82a22
+* author:	Colts (https://sketchfab.com/-Colts)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Machine Manual (Trinket) - Dandy's World" (https://sketchfab.com/3d-models/machine-manual-trinket-dandys-world-e8f8b079e55f464f8fcb039da7d82a22) by Colts (https://sketchfab.com/-Colts) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

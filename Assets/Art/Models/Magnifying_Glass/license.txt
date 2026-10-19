@@ -1,0 +1,8 @@
+Model Information:
+* title:	Magnifying Glass
+* source:	https://sketchfab.com/3d-models/magnifying-glass-8c8f3b2e73c7427eaa41976331fa5345
+* author:	Prince Obrymec (https://sketchfab.com/prince-obrymec)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

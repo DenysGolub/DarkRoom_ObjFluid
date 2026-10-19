@@ -1,0 +1,11 @@
+Model Information:
+* title:	Camera
+* source:	https://sketchfab.com/3d-models/camera-4fdac0ba365f4c38bf919ad43c3e3b26
+* author:	TIG (https://sketchfab.com/sunflowerkesu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Camera" (https://sketchfab.com/3d-models/camera-4fdac0ba365f4c38bf919ad43c3e3b26) by TIG (https://sketchfab.com/sunflowerkesu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

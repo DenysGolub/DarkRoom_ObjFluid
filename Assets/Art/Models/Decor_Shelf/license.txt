@@ -1,0 +1,11 @@
+Model Information:
+* title:	Decor Shelf
+* source:	https://sketchfab.com/3d-models/decor-shelf-c95459b91940496b8caf443a6ec788b7
+* author:	fath1234 (https://sketchfab.com/fath1234)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Decor Shelf" (https://sketchfab.com/3d-models/decor-shelf-c95459b91940496b8caf443a6ec788b7) by fath1234 (https://sketchfab.com/fath1234) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
